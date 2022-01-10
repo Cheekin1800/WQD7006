@@ -2,7 +2,8 @@
 Covid prediction based on symptoms and behaviors
 
 Metadata used for the research
-No.	Variable Name
+
+20 variables and 1 target variable
 - Breathing Problem
 - Fever
 - Dry Cough
