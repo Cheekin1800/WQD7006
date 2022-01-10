@@ -26,3 +26,9 @@ Metadata used for the research
 - Sanitization from Market (Dropped)
 - COVID-19
 
+Dataset consist of 5434 rows
+
+Machine learning technique includes:
+- Decision Tree Classifier
+- Random Forest Classifier
+- Extreme Gradient Boosting 
